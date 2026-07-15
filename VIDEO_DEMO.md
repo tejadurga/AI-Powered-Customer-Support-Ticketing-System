@@ -6,8 +6,8 @@ To see the complete working demonstration of the project, please watch the demo 
 
 ## 📹 Demo Video
 
-🔗 **Google Drive Link:**  
-https://drive.google.com/file/d/13CxxJAxpZLS9aGITcqmwpqMdHoqNgPlK/view?usp=sharing
+**Google Drive Link:**  
+[Watch Demo Video](https://drive.google.com/file/d/13CxxJAxpZLS9aGITcqmwpqMdHoqNgPlK/view?usp=sharing)
 
 ## 📋 About the Demo
 
